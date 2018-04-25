@@ -1,0 +1,11 @@
+C:\Users\junior-almada\source\repos\DataRepository\DataRepository.Client\bin\Release\netcoreapp2.0\DataRepositoryClient.deps.json
+C:\Users\junior-almada\source\repos\DataRepository\DataRepository.Client\bin\Release\netcoreapp2.0\DataRepositoryClient.runtimeconfig.json
+C:\Users\junior-almada\source\repos\DataRepository\DataRepository.Client\bin\Release\netcoreapp2.0\DataRepositoryClient.runtimeconfig.dev.json
+C:\Users\junior-almada\source\repos\DataRepository\DataRepository.Client\bin\Release\netcoreapp2.0\DataRepositoryClient.dll
+C:\Users\junior-almada\source\repos\DataRepository\DataRepository.Client\bin\Release\netcoreapp2.0\DataRepositoryClient.pdb
+C:\Users\junior-almada\source\repos\DataRepository\DataRepository.Client\obj\Release\netcoreapp2.0\DataRepositoryClient.csprojResolveAssemblyReference.cache
+C:\Users\junior-almada\source\repos\DataRepository\DataRepository.Client\obj\Release\netcoreapp2.0\DataRepositoryClient.csproj.CoreCompileInputs.cache
+C:\Users\junior-almada\source\repos\DataRepository\DataRepository.Client\obj\Release\netcoreapp2.0\DataRepositoryClient.AssemblyInfoInputs.cache
+C:\Users\junior-almada\source\repos\DataRepository\DataRepository.Client\obj\Release\netcoreapp2.0\DataRepositoryClient.AssemblyInfo.cs
+C:\Users\junior-almada\source\repos\DataRepository\DataRepository.Client\obj\Release\netcoreapp2.0\DataRepositoryClient.dll
+C:\Users\junior-almada\source\repos\DataRepository\DataRepository.Client\obj\Release\netcoreapp2.0\DataRepositoryClient.pdb
