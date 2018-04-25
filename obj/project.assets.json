@@ -38,7 +38,7 @@
           "lib/netstandard2.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll": {}
         }
       },
-      "DataRepository/1.0.0": {
+      "DataRepository/1.0.1": {
         "type": "package",
         "dependencies": {
           "AutoMapper": "6.2.1",
@@ -5111,12 +5111,12 @@
         "lib/netstandard2.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll"
       ]
     },
-    "DataRepository/1.0.0": {
-      "sha512": "BAtHAR5oLpfWiFsbeYhMVg+YVTM5u5sCVhH+BJD+4pSgMoaL4zGqCjN1YgmxNcxpc3fxHbvOYvOx8K1iiGdAWQ==",
+    "DataRepository/1.0.1": {
+      "sha512": "vToqcAeXzi+ci3Uh6rQtK1+dMmKbXgqaG8v8jOkQLBs2pAtM5uuWkfoxyrAt7SZqVUkKrbuuw7wKGPcRg6zEcQ==",
       "type": "package",
-      "path": "datarepository/1.0.0",
+      "path": "datarepository/1.0.1",
       "files": [
-        "datarepository.1.0.0.nupkg.sha512",
+        "datarepository.1.0.1.nupkg.sha512",
         "datarepository.nuspec",
         "lib/netcoreapp2.0/DataRepository.dll"
       ]
@@ -13198,7 +13198,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
-      "DataRepository >= 1.0.0",
+      "DataRepository >= 1.0.1",
       "Microsoft.AspNetCore.All >= 2.0.3",
       "Microsoft.NETCore.App >= 2.0.0"
     ]
@@ -13255,7 +13255,7 @@
           },
           "DataRepository": {
             "target": "Package",
-            "version": "1.0.0"
+            "version": "1.0.1"
           },
           "Microsoft.AspNetCore.All": {
             "target": "Package",
